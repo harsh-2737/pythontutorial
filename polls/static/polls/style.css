@@ -1,0 +1,10 @@
+li a {
+    color: green;
+}
+
+body {
+    background-image: url("images/Chrysanthemum.jpg");
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+}
+
